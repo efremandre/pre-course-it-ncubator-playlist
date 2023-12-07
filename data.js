@@ -33,7 +33,7 @@ export const playlists = [
                 coverImageUrl: './src/eminem50cent.jpg',
                 artistName: 'Eminem feat 50 Cent, Cashis, Lloyd Banks',
                 title: 'You Don\'t Know',
-                fileUrl: '/src/eminem-50cent-you-dont-know.mp3',
+                fileUrl: './src/eminem-50cent-you-dont-know.mp3',
                 isHot: true,
             }
         ]
